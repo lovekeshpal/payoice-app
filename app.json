@@ -4,7 +4,7 @@
     "slug": "payoice",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/payoice-logo-tagline.png",
     "scheme": "payoice",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
