@@ -22,6 +22,7 @@ const RootLayout = () => {
     "Geist-SemiBold": require("../assets/fonts/Geist-SemiBold.ttf"),
     "Geist-ExtraBold": require("../assets/fonts/Geist-ExtraBold.ttf"),
     "Geist-ExtraLight": require("../assets/fonts/Geist-ExtraLight.ttf"),
+    "Montserrat-Black": require("../assets/fonts/Montserrat-Black.ttf"),
   });
 
   useEffect(() => {

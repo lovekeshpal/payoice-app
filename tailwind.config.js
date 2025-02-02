@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#1753ES",
+        primary: "#1753E5",
         secondary: {
           DEFAULT: "#FF9C01",
           100: "#FF9001",
@@ -30,6 +30,7 @@ module.exports = {
         gsemibold: ["Geist-SemiBold", "sans-serif"],
         gextrabold: ["Geist-ExtraBold", "sans-serif"],
         gextralight: ["Geist-ExtraLight", "sans-serif"],
+        mblack: ["Montserrat-Black", "sans-serif"],
       },
     },
   },
